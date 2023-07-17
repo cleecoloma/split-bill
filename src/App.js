@@ -7,7 +7,6 @@ function App() {
     <div>
       <Nav />
       <Links />
-      <Upload />
     </div>
   );
 }
